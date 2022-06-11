@@ -1,7 +1,7 @@
-# README
+# Microposter App
+## A simple Twitter-like app written in Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*Created by:* **[Zsolt Szalma](https://github.com/szalmazsolt)**
 
 Things you may want to cover:
 
