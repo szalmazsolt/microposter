@@ -2,8 +2,6 @@ require "test_helper"
 
 class StaticPagesControllerTest < ActionDispatch::IntegrationTest
 
-  # BASE_TITLE = "Microposter"
-
   def setup
     @base_title = "Microposter"
   end
